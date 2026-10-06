@@ -109,3 +109,11 @@ Opsi `-s` menjalankan curl dalam mode silent sehingga informasi progress tidak d
 ## Kesimpulan
 
 Postman dan curl sama-sama dapat digunakan sebagai HTTP client untuk menguji API. Postman menyediakan antarmuka grafis yang memudahkan pengaturan method, URL, body, dan pemeriksaan response. Sementara itu, curl memungkinkan pengujian API dilakukan secara langsung melalui terminal. Penggunaan kedua alat tersebut membantu memahami proses request dan response HTTP serta informasi yang dikirim antara client dan server.
+
+## Lampiran
+
+- PR tugas: [LINK PR TM-4]
+- PR yang saya review: [LINK PR TEMAN]
+- Issue diskusi atau kendala: Tidak ada.
+- Reviewer: 061-ulid
+- Bukti: tersedia pada folder `pertemuan-02/kegiatan-praktikum/screenshots/`.
